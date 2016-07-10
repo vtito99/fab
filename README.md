@@ -2,7 +2,7 @@
 
 adricoti
 =======
-brunmtiempo al tiempo adri y coti
+tiempo al tiempo adri y coti
 ================================
 ================
 bruno y el mate?
