@@ -1,0 +1,53 @@
+#ejer 1
+def maxs(x, y):
+	varx = x
+	vary = y 
+
+	if x > y or x >= y:
+		print(x)
+
+	else:
+		print(y)
+
+
+
+
+#ejer 2
+
+def max_de_tres(a, b, c):
+
+	var = a
+	var2 = b
+	var3 = c
+
+	if a > b and a > c:
+		print(a)
+
+	elif a < b and b > c:
+		print(b)
+
+	else:
+		print(c)
+
+
+
+#ejer 3
+
+def logitud():
+
+	contador = 0
+	lista = raw_input("ingrese lista :" )
+
+	for i in lista:
+
+		contador = contador + 1
+
+		
+
+
+
+def largo_cadena (lista):
+    cont = 0
+    for i in lista:
+        cont += 1
+    return cont
