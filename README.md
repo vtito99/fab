@@ -20,4 +20,4 @@ public class QuickSort{
           System.out.print(array[i]+"  ");
       System.out.println();
     }
- 
+ coti esta muerta de amor por adrian y le tiene un hambre, pero no se atreve a decirle (encima es facha como francis)
